@@ -1,0 +1,51 @@
+name: web_selling_chatbot
+description: "A Flutter E-Commerce Web Application with AI Chatbot"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # HTTP client for API calls
+  http: ^1.1.0
+  # State management
+  provider: ^6.1.1
+  # Navigation and routing
+  go_router: ^12.1.3
+  # Local storage for tokens and user data
+  shared_preferences: ^2.2.2
+  # JSON serialization
+  json_annotation: ^4.8.1
+  # UI components and icons
+  flutter_svg: ^2.0.9
+  cupertino_icons: ^1.0.6
+  # Form validation
+  email_validator: ^2.1.17
+  # Image handling
+  cached_network_image: ^3.3.0
+  # Date formatting
+  intl: ^0.19.0
+  # Loading indicators
+  flutter_spinkit: ^5.2.0
+  # Toast messages
+  fluttertoast: ^8.2.4
+  # Badge for cart
+  badges: ^3.1.2
+  # Markdown rendering
+  flutter_markdown: ^0.6.18
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  # JSON serialization
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
