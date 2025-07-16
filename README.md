@@ -141,3 +141,9 @@ flutter build linux
 
 ## 🔗 Backend (FastAPI)
 https://github.com/ThanhAn-Tran/web_api_backend.git
+
+---
+## 🎥 Demo
+
+▶️ Watch the demo here:  
+[AI Chatbot AQI Demo – YouTube](https://youtube.com/shorts/YTPVJ-bAWgM?feature=share)
