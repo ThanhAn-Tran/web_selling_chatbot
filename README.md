@@ -5,14 +5,11 @@ This is the Flutter frontend for an AI-powered e-commerce chatbot system. It con
 ---
 
 ## 🚀 Features
-- User authentication (JWT)
 - Product catalog & search
 - Cart & order management
-- Payments (Momo, COD, Credit Card, ZaloPay)
 - AI chatbot (OpenAI GPT, context-aware)
 - Admin dashboard for managing products, orders, and users
-- Responsive UI for mobile, web, and desktop
-
+  
 ---
 
 ## 📋 Prerequisites
@@ -143,7 +140,8 @@ flutter build linux
 https://github.com/ThanhAn-Tran/web_api_backend.git
 
 ---
+
 ## 🎥 Demo
 
-▶️ Watch the demo here:  
-[AI Chatbot AQI Demo – YouTube](https://youtube.com/shorts/YTPVJ-bAWgM?feature=share)
+▶️ Watch the video demo here:  
+[Smart Shopping Chatbot Demo – YouTube](https://youtube.com/shorts/YTPVJ-bAWgM?feature=share)
