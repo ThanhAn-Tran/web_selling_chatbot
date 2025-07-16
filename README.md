@@ -139,10 +139,5 @@ flutter build linux
 
 ---
 
-## 📝 License
-MIT
-
----
-
 ## 🔗 Backend (FastAPI)
 https://github.com/ThanhAn-Tran/web_api_backend.git
